@@ -1,0 +1,10 @@
+D:\пользователь\Desktop\Курсовая\Worms\bin\Debug\Worms.exe.config
+D:\пользователь\Desktop\Курсовая\Worms\bin\Debug\Worms.exe
+D:\пользователь\Desktop\Курсовая\Worms\bin\Debug\Worms.pdb
+D:\пользователь\Desktop\Курсовая\Worms\obj\Debug\Worms.csprojResolveAssemblyReference.cache
+D:\пользователь\Desktop\Курсовая\Worms\obj\Debug\Worms.Properties.Resources.resources
+D:\пользователь\Desktop\Курсовая\Worms\obj\Debug\Worms.csproj.GenerateResource.cache
+D:\пользователь\Desktop\Курсовая\Worms\obj\Debug\Worms.csproj.CoreCompileInputs.cache
+D:\пользователь\Desktop\Курсовая\Worms\obj\Debug\Worms.exe
+D:\пользователь\Desktop\Курсовая\Worms\obj\Debug\Worms.pdb
+D:\пользователь\Desktop\Курсовая\Worms\obj\Debug\Worms.PlayWindow.resources
